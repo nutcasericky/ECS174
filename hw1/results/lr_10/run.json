@@ -1,0 +1,18 @@
+{
+  "config": {
+    "model": "cnn",
+    "epochs": 5,
+    "batch_size": 4,
+    "lr": 10.0,
+    "augment": false,
+    "loss": "ce",
+    "device": "auto",
+    "data_dir": "data",
+    "output": "/Users/crq/Desktop/school/ECS174/results/lr_10"
+  },
+  "device": "mps",
+  "parameters": 62006,
+  "status": "diverged",
+  "reason": "Non-finite loss; stopped early rather than training invalid weights.",
+  "epochs_recorded": 1
+}

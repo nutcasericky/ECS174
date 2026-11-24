@@ -1,0 +1,17 @@
+{
+  "config": {
+    "model": "cnn",
+    "epochs": 5,
+    "batch_size": 1,
+    "lr": 0.001,
+    "augment": false,
+    "loss": "ce",
+    "device": "auto",
+    "data_dir": "data",
+    "output": "/Users/crq/Desktop/school/ECS174/results/batch_1"
+  },
+  "device": "mps",
+  "parameters": 62006,
+  "status": "complete",
+  "epochs_recorded": 5
+}
