@@ -1,0 +1,16 @@
+# Python virtual environments (at any directory depth)
+.venv/
+.venv-*/
+.venv_*/
+venv/
+venv-*/
+venv_*/
+env/
+ENV/
+.env/
+env.bak/
+venv.bak/
+virtualenv/
+.virtualenv/
+.virtualenvs/
+.conda/
